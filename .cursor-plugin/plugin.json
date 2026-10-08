@@ -1,0 +1,22 @@
+{
+  "name": "rebrand",
+  "version": "1.0.0",
+  "description": "Research brand identities and visual assets with Rebrand's MCP server and brand-research skill.",
+  "author": {
+    "name": "Rebrand",
+    "email": "contact@rebrand.gallery",
+    "url": "https://www.rebrand.gallery"
+  },
+  "homepage": "https://mcp.rebrand.gallery",
+  "keywords": [
+    "branding",
+    "design",
+    "visual-references",
+    "mcp"
+  ],
+  "repository": "https://github.com/sahkyo/rebrand-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "skills": "skills"
+}
